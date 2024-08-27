@@ -1,2 +1,2 @@
-This repo contains a chatapp.
+This repo contains a web chatapp.
 
